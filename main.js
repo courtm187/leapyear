@@ -4,5 +4,4 @@ module.exports = {
       return "It is a leap year";
     }
   }
-  console.log(leapYear.(2016));
 }
